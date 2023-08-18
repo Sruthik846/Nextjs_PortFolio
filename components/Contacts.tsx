@@ -18,11 +18,11 @@ const Contacts = () => {
         </button>
       </div>
       <div className="mt-8 flex items-center flex-wrap gap-8 justify-center">
-        <SocialLink></SocialLink>
-        <SocialLink></SocialLink>
-        <SocialLink></SocialLink>
-        <SocialLink></SocialLink>
-        <SocialLink></SocialLink>
+        <SocialLink title='Github'></SocialLink>
+        <SocialLink title='Facebook'></SocialLink>
+        <SocialLink title='Facebook'></SocialLink>
+        <SocialLink title='LinkedIn'></SocialLink>
+        <SocialLink title='Next.js'></SocialLink>
       </div>
 
     </div>
